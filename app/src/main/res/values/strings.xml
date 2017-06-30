@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="enter_the_amount_in_dollars">Enter the amount in dollars:</string>
+    <string name="convert">Convert</string>
+    <string name="convert_to">Convert to £</string>
+    <string name="enter_amount_in_cda_dollars">Enter amount in cda dollars:</string>
+    <string name="enter_cdn_amount">Enter CDN Amount:</string>
+    <string name="convert_to_usd">convert to USD</string>
+</resources>
